@@ -1,5 +1,6 @@
 # TrabalhoFinalPSC
 
+André Luiz da Silva Junior - 1232020446
 ## Funcionalidades do Sistema de Gerenciamento de Doações:
 
 ### Receber Doações:
